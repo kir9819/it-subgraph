@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: BSCswap is a decentralized protocol for automated token exchange on Binance Smart Chain.
-repository: https://github.com/bscswap/bscswap-subgraph
+repository: https://github.com/kir9819/it-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
